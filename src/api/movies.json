@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "name": "Jurassic World Dominion",
+      "rating": "11",
+      "imageURL": "https://www.themoviedb.org/t/p/original/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg",
+      "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history’s most fearsome creatures.",
+      "id": 7
+    },
+    {
+      "name": "Paws of Fury",
+      "rating": "8",
+      "overview": "A hard-on-his-luck hound finds himself in a town full of cats who need a hero to defend them from a ruthless villain's evil plot to wipe their village off the map. With help from a reluctant teacher to train him, our underdog must assume the role of town samurai and team up with the villagers to save the day.",
+      "imageURL": "https://www.themoviedb.org/t/p/original/vccE9bBa9mgghFpkWzU1fQqmOKB.jpg",
+      "id": 8
+    },
+    {
+      "name": "The Princess",
+      "rating": "9",
+      "imageURL": "https://www.themoviedb.org/t/p/original/9pCoqX24a6rE981fY1O3PmhiwrB.jpg",
+      "overview": "A beautiful, strong-willed young royal refuses to wed the cruel sociopath to whom she is betrothed and is kidnapped and locked in a remote tower of her father’s castle. With her scorned, vindictive suitor intent on taking her father’s throne, the princess must protect her family and save the kingdom.",
+      "id": 9
+    },
+    {
+      "name": "Ms. Marvel ",
+      "rating": "10",
+      "imageURL": "https://www.themoviedb.org/t/p/original/cdkyMYdu8ao26XOBvilNzLneUg1.jpg",
+      "overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
+      "id": 10
+    },
+    {
+      "name": "The Good Doctor",
+      "rating": "7",
+      "overview": "Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.",
+      "imageURL": "https://www.themoviedb.org/t/p/original/cXUqtadGsIcZDWUTrfnbDjAy8eN.jpg",
+      "id": 11
+    },
+    {
+      "name": "Shrek",
+      "rating": "10",
+      "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+      "imageURL": "https://www.themoviedb.org/t/p/original/o04jZs5SXhbvhqO4981W7KJXOWZ.jpg",
+      "id": 12
+    }
+  ]
+}
